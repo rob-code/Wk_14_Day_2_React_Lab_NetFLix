@@ -22,22 +22,7 @@ return(
 
 <p className="summary">{this.props.film.summary}</p>
 
-
-
-
-
-
-
-
-
-
-
 </div>
-
-
-
-
-
 
   )
 

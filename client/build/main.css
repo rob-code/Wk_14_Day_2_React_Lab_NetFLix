@@ -1,0 +1,24 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+
+.container{
+display: flex;
+}
+
+.column1{
+width: 50%;
+}
+
+
+.column2{
+width:50%;
+}
+
+h2{
+
+  font-size: 2em;
+  font-weight: bold;
+}
